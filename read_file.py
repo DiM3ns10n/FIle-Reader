@@ -69,3 +69,7 @@ def main():
         read_file(file_path)
     except Exception as e:
         print(e)
+
+
+if __name__ == '__main__':
+    main()
