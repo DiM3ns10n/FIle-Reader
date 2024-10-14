@@ -73,3 +73,6 @@ def main():
 
 if __name__ == '__main__':
     main()
+    #read_file('examples\pdf_example_1.pdf')
+    #read_file('examples\csv_example.csv')
+    #read_file('examples\text_example.txt')
